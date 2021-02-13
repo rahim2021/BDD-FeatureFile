@@ -1,0 +1,4 @@
+steps\Steps.class
+stepsDefinition\TestClass.class
+stepsDefinition\StepsDefinition.class
+runner\LoginRunner.class
